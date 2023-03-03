@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08b79145-7152-4025-b459-b96b9aa166bb" name="Default Changelist" comment="" />
+    <list default="true" id="08b79145-7152-4025-b459-b96b9aa166bb" name="Default Changelist" comment="add data">
+      <change afterPath="$PROJECT_DIR$/data/next_day_wildfire_spread_eval_01.tfrecord" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/next_day_wildfire_spread_test_00.tfrecord" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/next_day_wildfire_spread_test_01.tfrecord" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/next_day_wildfire_spread_train_00.tfrecord" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/next_day_wildfire_spread_train_01.tfrecord" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/next_day_wildfire_spread_train_02.tfrecord" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/next_day_wildfire_spread_train_03.tfrecord" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/next_day_wildfire_spread_train_04.tfrecord" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/next_day_wildfire_spread_train_05.tfrecord" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/next_day_wildfire_spread_train_06.tfrecord" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/next_day_wildfire_spread_train_07.tfrecord" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/next_day_wildfire_spread_train_08.tfrecord" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/next_day_wildfire_spread_train_09.tfrecord" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/next_day_wildfire_spread_train_10.tfrecord" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/next_day_wildfire_spread_train_11.tfrecord" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/next_day_wildfire_spread_train_12.tfrecord" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/next_day_wildfire_spread_train_13.tfrecord" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/next_day_wildfire_spread_train_14.tfrecord" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,10 +38,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="08b79145-7152-4025-b459-b96b9aa166bb" name="Default Changelist" comment="" />
@@ -31,7 +52,50 @@
       <option name="presentableId" value="Default" />
       <updated>1677799884900</updated>
       <workItem from="1677799886062" duration="11000" />
+      <workItem from="1677809804875" duration="391000" />
     </task>
+    <task id="LOCAL-00001" summary="add unet">
+      <created>1677809933780</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677809933780</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add dataset">
+      <created>1677809971049</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677809971049</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add unet">
+      <created>1677810009348</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677810009348</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add dataset" />
+    <MESSAGE value="add unet" />
+    <MESSAGE value="add data" />
+    <option name="LAST_COMMIT_MESSAGE" value="add data" />
   </component>
 </project>
