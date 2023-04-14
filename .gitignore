@@ -2,3 +2,5 @@
 venv/
 env/
 resources/
+models/data/
+.DS_Store
