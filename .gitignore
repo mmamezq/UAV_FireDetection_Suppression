@@ -6,3 +6,4 @@ resources/
 __pycache__
 models/data/large_dataset
 models/data/small_images.tfrecords
+/data/
