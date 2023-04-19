@@ -2,6 +2,7 @@
 venv/
 env/
 resources/
-models/data/
 .DS_Store
 __pycache__
+models/data/large_dataset
+models/data/small_images.tfrecords
